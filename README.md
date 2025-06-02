@@ -59,5 +59,5 @@ streamlit run app.py
 ```
 
 🔹 Versi Online (Streamlit Cloud)
-👉 Klik di sini : 
+👉 Klik di sini : https://deployfastauas.streamlit.app/
 
